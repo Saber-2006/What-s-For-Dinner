@@ -1,0 +1,127 @@
+body{
+    background-color: #FFFBEA !important;
+}
+.mainCol{
+    background-color: #FF5A00 !important;
+}
+.mainColSec{
+    background-color: #FFEDD4 !important;
+}
+.text-main{
+    color: #FF5A00 !important;
+}
+.xx{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+ul li {
+    list-style: none;
+}
+ul li i:hover{
+    color: #FF5A00 !important;
+    cursor: pointer;
+
+}
+.kkl{
+    background-color: #E27100!important;
+}
+.imgDiv{
+    width: 70px;
+    border-radius: 50%;
+    border: solid 2px #FF5A00;
+    overflow: hidden;
+} 
+.imgDiv img{
+    width: 100%;
+}
+.mm{
+    margin: 10px 50px  !important ;
+    margin-top: 30px;
+    width: 300px !important;
+}
+.kk{
+        margin-top: 10px;
+        margin-left: 20px;
+}
+
+.maindiv{
+    height: 700px;  
+
+
+}
+.maindivImg{
+    height: 700px;
+    width: 400px !important;
+}
+.jjj{
+margin-left: 200px;
+}
+
+
+   /* Hide all sections by default */
+        #a, #b, #c, #d {
+            display: none;
+        }
+
+        /* Show only the section that matches the URL hash*/
+        #a:target,
+        #b:target,
+        #c:target,
+        #d:target {
+            display: block;
+        }
+
+
+        .btn-tab {
+            padding: 10px 20px;
+            color: #FF5A00;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+
+        .step-box {
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+
+        .mainCol {
+            background: #333;
+            width: 40px;
+            height: 40px;
+            text-align: center;
+            color: white;
+        }
+.mmmk a{
+    text-decoration: underline;
+    color: #FF5A00 !important;
+
+}
+
+.kkk a{
+    text-decoration: underline;
+    color: #FF5A00 !important;
+}
+.no{
+    height: 50px ;
+}
+.secAno{
+    width: 40px;
+}
+.secDdiv{
+    border-left: 5px solid  #FFBA00; 
+    width: 90%;
+    margin: auto;
+    padding: 10px !important;
+}
+.buttonchange{
+    width: 200px; 
+    border: none;
+}
+.buttonchange:hover{
+    transform: scale(1.1);
+}
